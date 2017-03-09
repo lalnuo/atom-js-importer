@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "cmd-shift-i": "atom-js-import:toggle"
+  }
+}
