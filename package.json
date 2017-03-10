@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "atom-js-import:toggle"
   },
-  "repository": "https://github.com/atom/atom-js-import",
+  "repository": "https://github.com/lalnuo/atom-js-import",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
