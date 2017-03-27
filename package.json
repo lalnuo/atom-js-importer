@@ -1,7 +1,7 @@
 {
   "name": "atom-js-import",
   "main": "./lib/atom-js-import",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Adds a shortcut to import variables",
   "keywords": [],
   "activationCommands": {
