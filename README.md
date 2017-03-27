@@ -1,5 +1,7 @@
 # atom-js-import package
 
-A short description of your package.
+Three simple steps to use this package:
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+1. Click any variable in your file
+2. Press `cmd + shift + i`
+3. Import is now copied to your clipboard. (press `cmd + v` to paste it)
